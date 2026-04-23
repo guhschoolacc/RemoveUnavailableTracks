@@ -1,0 +1,9 @@
+{
+  "name": "RemoveUnavailableTracks",
+  "description": "Scan a playlist and remove tracks that are no longer playable or missing.",
+  "preview": "screenshot.png",
+  "main": "RemoveUnavailableTracks.js",
+  "readme": "README.md",
+  "tags": ["playlist","cleanup","spicetify-extensions"],
+  "version": "1.0.0"
+}
